@@ -1,0 +1,12 @@
+:root{
+    --color-primario-night: #0F0F0F;
+    --color-blanco: #fff;
+}
+.night #perfil,
+.night #skills{
+    background-color: var(--color-primario-night);
+}
+.night #perfil p,
+.night #skills p{
+    color: var(--color-blanco);
+}
